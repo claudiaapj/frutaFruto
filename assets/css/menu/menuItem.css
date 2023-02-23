@@ -1,0 +1,10 @@
+.menu__item{
+    list-style: none;
+}
+
+
+
+.menu__item:last-child a{
+    /*last-child pega o último filho*/
+    margin-right: 0;
+}
